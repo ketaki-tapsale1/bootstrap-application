@@ -1,0 +1,23 @@
+body{
+    font-family: sans-serif;
+    background: linear-gradient(to bottom,#b7d755,#e1e359);
+}
+.navbar-nav a{
+    font-size: 20px;
+    color: #fff;
+    font-weight: 500;
+}
+.navbar-nav .active{
+    font-size: 20px;
+    color: #fff !important;
+    font-weight: 500;
+}
+.carousel-item img{
+    height: 70vh;
+    min-height: 300px;
+    object-fit: cover;
+}
+.item-padding{
+    padding: 0 120px;
+    width: 70vw;
+}
